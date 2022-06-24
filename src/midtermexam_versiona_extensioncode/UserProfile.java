@@ -15,7 +15,7 @@ package midtermexam_versiona_extensioncode;
  */
 public class UserProfile 
 {
-    
+    class TestUserprofile
     private String userID;//the userID
     private String genre;// the user's preferred genre of movie
     private String[] genres = {"Comedy", "Drama", "Action", "Mystery"};//available genres of movies
@@ -62,7 +62,13 @@ public class UserProfile
     }
     
     
+
+     }
+     
+
     
     
     
-}//end class
+    
+    
+//end class
